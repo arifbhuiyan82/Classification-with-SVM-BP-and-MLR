@@ -30,7 +30,7 @@ Bank marketing dataset (A2-bank.zip):
 - Observation: missing information is tagged as “unknown”
 
 
-Search a dataset from the Internet, with the following characteristics: (we use A2-Insurence.zip)
+Search a dataset from the Internet, with the following characteristics: (we use Prime Indians Diabetes Dataset downloaded from https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.names)
 - At least 6 features, one of them used for classification
 - The classification feature can be binary or multivariate
 - At least 400 patterns
