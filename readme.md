@@ -1,6 +1,6 @@
 Classification with SVM, BP and MLR
 
-Assignemt done by Arif Bhuiyan & Julio Cesar
+Assignment done by Arif Bhuiyan & Julio Cesar
 
 Objective: Perform data classification with the following algorithms:
 
